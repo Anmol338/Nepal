@@ -200,6 +200,13 @@ nav{
     width: 50%;
     font-size: 18px;
     font-family: sans-serif;
+    display: flex;
+    line-height: 1.5;
+  }
+
+  .neph_style{
+    border-bottom: 5px solid rgb(12, 73, 226);
+    border-radius: 3px;
   }
 
   .nepp{
@@ -392,12 +399,14 @@ nav{
     border-bottom: 3px solid rgb(220, 220, 220);
     font-size: 16px;
     font-family: sans-serif;
+    padding-left: 10px;
   }
 
   label{
     font-size: 14px;
     font-family: sans-serif;
-    padding-bottom: 20px 0px;
+    padding-bottom: 20px;
+    padding-left: 10px;
   }
 
   .contactUs{
@@ -412,6 +421,7 @@ nav{
     border-bottom: 3px solid rgb(220, 220, 220);
     font-size: 16px;
     font-family: sans-serif;
+    padding-left: 10px;
   }
 
   #msg{
@@ -423,6 +433,7 @@ nav{
     border-bottom: 3px solid rgb(220, 220, 220);
     font-size: 16px;
     font-family: sans-serif;
+    padding-left: 10px;
   }
 
   .btnContact{
